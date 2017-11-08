@@ -1,11 +1,12 @@
 h1{
   color: purple;
-  text-align:centre;
+  text-align: centre;
 }
+
 img{
   height: 500px;
   width: 500px;
-  border: solid 10 px blue
+  border: solid 10 px blue;
 }
 
 #first{
